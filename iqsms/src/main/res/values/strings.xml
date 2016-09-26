@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IqSms</string>
+    <string name="send_message">Send message</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="text">Текст сообщения</string>
+    <string name="message_not_sent">Сообщение НЕ отпралено</string>
+    <string name="message_sent">Сообщение отправлено</string>
+    <string name="enter_phone_number_and_message_text">Введите номер телефона и текст сообщения</string>
+</resources>
